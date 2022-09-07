@@ -1,0 +1,26 @@
+{
+  "name": "cheer-me-up",
+  "version": "1.0.0",
+  "description": "\"Get random compliments to cheer you up\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compliment",
+    "javascript",
+    "node",
+    "joy",
+    "happy",
+    "random",
+    "random compliment",
+    "smile",
+    "cheer",
+    "cheer up",
+    "chin up",
+    "fun",
+    "Motivation"
+  ],
+  "author": "Gargee Suresh",
+  "license": "ISC"
+}
