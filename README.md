@@ -43,4 +43,3 @@ var compliment = myCompliment.getCompliment();
 console.log(compliment);
 ```
 
-## Cotribution Guidelines
