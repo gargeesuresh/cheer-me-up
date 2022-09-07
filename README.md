@@ -11,7 +11,7 @@
    <img src=https://img.shields.io/npm/v/cheer-me-up?style=for-the-badge&logo=appveyor>
 </a>
 <a href=https://github.com/gargeesuresh/cheer-me-up>
-   <img src=https://img.shields.io/github/repo-size/gargeesuresh/cheer-me-up?style=for-the-badge&logo=appveyor>
+   <img src=https://img.shields.io/github/repos/gargeesuresh/cheer-me-up?style=for-the-badge&logo=appveyor>
 </a>
 <a href=https://github.com/gargeesuresh/cheer-me-up>
    <img src=https://img.shields.io/bundlephobia/min/cheer-me-up/1.0.0?style=for-the-badge&logo=appveyor>
