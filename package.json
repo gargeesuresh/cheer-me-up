@@ -22,5 +22,13 @@
     "Motivation"
   ],
   "author": "Gargee Suresh",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gargeesuresh/cheer-me-up.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gargeesuresh/cheer-me-up/issues"
+  },
+  "homepage": "https://github.com/gargeesuresh/cheer-me-up#readme"
 }
