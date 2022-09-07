@@ -2,24 +2,23 @@
 
 #  Cheer me up
 <a href=https://github.com/gargeesuresh/cheer-me-up>
-   <img src=https://img.shields.io/npm/dy/make-me-laugh>
+   <img src=https://img.shields.io/npm/dy/cheer-me-up?style=for-the-badge&logo=appveyor>
 </a>
 <a href=https://github.com/gargeesuresh/cheer-me-up>
-   <img src=https://img.shields.io/npm/l/make-me-laugh>
+   <img src=https://img.shields.io/npm/l/cheer-me-up?style=for-the-badge&logo=appveyor>
 </a>
 <a href=https://github.com/gargeesuresh/cheer-me-up>
-   <img src=https://img.shields.io/npm/v/make-me-laugh>
+   <img src=https://img.shields.io/npm/v/cheer-me-up?style=for-the-badge&logo=appveyor>
 </a>
 <a href=https://github.com/gargeesuresh/cheer-me-up>
-   <img src=https://img.shields.io/github/repo-size/poojarathore30/make-me-laugh>
+   <img src=https://img.shields.io/github/repo-size/gargeesuresh/cheer-me-up?style=for-the-badge&logo=appveyor>
 </a>
 <a href=https://github.com/gargeesuresh/cheer-me-up>
-   <img src=https://img.shields.io/bundlephobia/min/make-me-laugh/2.1.1>
+   <img src=https://img.shields.io/bundlephobia/min/cheer-me-up/1.0.0?style=for-the-badge&logo=appveyor>
 </a>
 
-#### An [NPM](https://www.npmjs.com/package/make-me-laugh) npm package to generate random compliments, spread positivity and happiness!
-
-### Click [here](https://www.npmjs.com/package/make-me-laugh) to view this package on NPM registry. Check the homepage down here.
+An [NPM](https://www.npmjs.com/package/cheer-me-up) npm package to generate random compliments, spread positivity and happiness!
+Click [here](https://www.npmjs.com/package/cheer-me-up) to view this package on NPM registry. Check the homepage down here.
 
 ## Spreading Positivity
 ### Installation
@@ -35,14 +34,14 @@ $ npm install --save cheer-me-up
 * Requiring the module
 
 ```javascript
-var myjoke = require('cheer-me-up');
+var myCompliment = require('cheer-me-up');
 ```
 * getCompliment() method returns a random Compliment to cheer you up!
 
  ```javascript
 
-var joke = myjoke.getCompliment();
-console.log(joke);
+var compliment = myCompliment.getCompliment();
+console.log(compliment);
 ```
 
 ## Cotribution Guidelines
